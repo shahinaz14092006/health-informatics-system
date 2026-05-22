@@ -5,7 +5,7 @@ import os
 # 🔑 CONFIGURE GEMINI API KEY
 # ==========================================
 # Replace the string below with your actual API key from Google AI Studio
-genai.configure(api_key="AIzaSyAGJQT8EBObrEunW6BNfmlk1utj3t2DS-o")
+genai.configure(api_key="AIzaSyAA1Opn_zmqb2rFCng_Od6KrXdJYe-mI54")
 
 def get_medicine_suggestions(disease, symptoms):
     """
